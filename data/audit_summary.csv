@@ -1,0 +1,3 @@
+model,total_records,exact_match,near_duplicate,gap,exact_rate_pct,near_rate_pct,gap_rate_pct
+CTGAN,10000,5,272,267,0.05,2.72,2.67
+TVAE,10000,56,640,584,0.56,6.4,5.84
